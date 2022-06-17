@@ -37,7 +37,7 @@
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
-            <version>1.2.72</version>
+            <version>1.2.83</version>
         </dependency>
 
         <!--在使用 easyexcel 时，因为 eayexcel 中已存在 poi 和 poi-ooxml 的依赖，为避免依赖冲突， 做注释-->
